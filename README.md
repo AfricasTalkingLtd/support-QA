@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PaizaQA
 
 PaizaQA is a Open Source QA service(like StackOverflow) using MEAN stack.
@@ -45,3 +46,7 @@ Run `grunt build` for building and `grunt serve` for preview.
 ## Testing
 
 Running `npm test` will run the unit tests with karma.
+=======
+# support-QA
+Support Q/A Platform
+>>>>>>> b114d92cee44be800d177a2459a7e67ddda92329
